@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @OmarFarouk
+- 👀 I’m interested to become Fullstack Developer 
+- 🌱 I’m currently learning Laravel & Database
+- 💞️ I’m looking to collaborate on ..
+- 📫 How to reach me, you can sent email to auliaomarfarouk@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ..
